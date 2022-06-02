@@ -1,0 +1,14 @@
+{
+	"name": "<寢>戦国†恋姫オンライン〜奥宴新史〜",
+	"short_name": "<寢>戦†恋〜奥宴〜",
+	"theme_color": "#ff68c4",
+	"background_color": "#ff68c4",
+	"display": "browser",
+	"scope": "/",
+	"start_url": "/harem.html",
+	"icons": [{
+		"src": "icon.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}]
+  }
